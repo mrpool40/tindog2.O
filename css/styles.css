@@ -1,0 +1,137 @@
+
+body{
+   font-family: 'Ubuntu', sans-serif;
+  }
+  #title{
+  background-color: #ff4c68;
+    color: white;
+
+
+
+}
+.h1head h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-right:1rem;
+  color: white;
+}
+.container-fluid{
+  padding: 3% 15% 13%;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.container{
+   padding: 0 0 4.5rem;
+}
+.nav-item{
+  padding: 0 16px;
+}
+.dowwnload-btn{
+  margin: 5% 3% 5% 0;
+}
+.dogimage1{
+  position: relative;
+}
+.image1{
+  position: absolute;
+
+  right: 0;
+  width: 60%;
+  transform: rotate(25deg);
+
+
+}
+#features{
+  padding: 8.8% 10%;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+
+
+
+}
+.feature-box{
+  padding: 6%;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 2rem;
+}
+ p{
+  color: #8f8f8f;
+}
+.icon{
+  color: #ef8172;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+.dogimage1{
+  text-align: center;
+  padding-top: 2rem;
+}
+.c-in{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+}
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 2rem;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+
+
+}
+.press-pic{
+  width: 20%;
+  padding: 1% 5% 5% 5%;
+}
+.tet-prs{
+  background-color: #ef8172;
+}
+#pricing{
+  text-align: center;
+  padding: 7% 10%;
+  padding-top: 10rem;
+}
+
+.p1{
+  padding-bottom: 1.6rem
+}
+#pricing h1{
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 2rem
+}
+#pricing p{
+  padding-bottom: 3rem
+}
+#cta{
+  text-align: center;
+
+}
+#footer{
+  text-align: center;
+  padding: 2rem 4rem 4rem 4rem;
+}
+@media (max-width: 990px){
+
+  .image1{
+    position: static;
+    padding-top: 2rem;
+  }
+  .h1head{
+    padding-right: 5rem;
+  }
